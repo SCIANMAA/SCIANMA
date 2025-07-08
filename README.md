@@ -35,7 +35,7 @@ Mi primer proyecto personal es un sitio web freelance responsive, inspirado en u
 ## 📫 Contacto
 
 - Email: Sciammarellaagus9@gmail.com
-- LinkedIn: [linkedin.com/in/AgustínSciammarella] (https://www.linkedin.com/in/agust%C3%ADn-sciammarella-385149298/)
+- LinkedIn: [linkedin.com/in/AgustínSciammarella](https://www.linkedin.com/in/agust%C3%ADn-sciammarella-385149298/)
 
 
 ### ¡Gracias por visitar mi perfil!
