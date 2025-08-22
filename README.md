@@ -1,38 +1,63 @@
-#SCIANMA 👋 ¡Hola! Soy Agustín
+# 👋 ¡Hola! Soy Agustín Sciammarella  
 
-Soy estudiante de Ingeniería en Sistemas con un fuerte interés en el desarrollo frontend y en la aplicación de la tecnología para resolver problemas reales. Actualmente estoy en proceso de formación como Desarrollador Frontend, aprendiendo y aplicando tecnologías como HTML, CSS y SQL 
+Soy **Desarrollador Frontend** con formación en **Ingeniería en Sistemas** y 1 año de experiencia en el desarrollo de aplicaciones web.  
+Me apasiona crear interfaces modernas, intuitivas y adaptables, con un enfoque en **responsividad, escalabilidad y buenas prácticas**.  
 
-## 🚀 Sobre mí
+Actualmente busco seguir creciendo profesionalmente, aportando soluciones digitales efectivas que unan **tecnología y experiencia de usuario**.  
 
-🎓 Actualmente curso Ingeniería en Sistemas en la Universidad CAECE.
+---
 
-💡 Me apasiona el desarrollo de interfaces web, la inteligencia artificial aplicada al bienestar laboral y los sistemas inteligentes.
+## 🚀 Tecnologías que manejo
 
-🛠️ Estoy aprendiendo y practicando con proyectos personales mientras avanzo en mi formación académica y profesional.
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript  
+- **Backend y BD:** MySQL, Node.js (aprendiendo)  
+- **Control de versiones:** Git, GitHub  
+- **Otros lenguajes y bases sólidas:** C, Java  
+- **Frameworks y librerías que estoy explorando:** React/Redux, SASS, WordPress  
 
-🌱 En proceso de construcción de mi primer portfolio y perfil técnico en GitHub.
+---
 
-## 🧠 Conocimientos y herramientas
+## 🧪 Proyectos
 
-- Lenguajes: HTML, CSS, SQL, C, Java
-- Bases de datos: MySQL
-- Control de versiones: Git y GitHub
-- Otros: Diseño responsive, trabajo en equipo, metodologías ágiles
+### 🎡 [Sitio Web Freelancer]()
+Mi primer proyecto personal: un **sitio web responsive para freelancers**, inspirado en una plantilla de servicios profesionales.  
+- Enfoque en **estructura sólida, componentes reutilizables y diseño moderno**.  
+- Compatible con múltiples dispositivos gracias a técnicas de diseño responsive.  
 
-## 🧪 Proyecto actual
+**Tecnologías utilizadas:**  
+- HTML5  
+- CSS3 (layouts, animaciones y estilos personalizados)  
 
-### 🎡 Sitio Web Freelancer (en desarrollo)
+---
 
-Mi primer proyecto personal es un sitio web freelance responsive, inspirado en una plantilla de servicios profesionales. Forma parte de mi enfoque construir desde cero una pagina con una estructura web sólida, con diseño moderno, componentes reutilizables y compatibilidad con múltiples dispositivos.
+### 🛍️ [Frontend Store](#)
+Proyecto de una **tienda virtual frontend**, con un catálogo de productos dinámico y diseño pensado para la **experiencia de usuario**.  
+- Implementación de **cards interactivas** para productos.  
+- Sección de **"Sobre Nosotros"** con storytelling de marca.  
+- Uso de **CSS y animaciones** para mejorar la presentación.  
 
-🛠️ Tecnologías utilizadas:
-- HTML5
-- CSS3 (con enfoque en layout, animaciones y estilos personalizados)
+**Tecnologías utilizadas:**  
+- HTML5  
+- CSS3  
+- JavaScript  
 
-🚧 Estado: En desarrollo (subida pendiente)
+---
+
+## 🌱 Lo que estoy aprendiendo actualmente
+- React para proyectos frontend más robustos.  
+- Node.js para integrar backend con frontend.  
+- Mejores prácticas de arquitectura de proyectos web.  
+
+---
+
+## 📫 Conectemos
+- GitHub: [github.com/scianma](#)  
+- LinkedIn: [linkedin.com/in/agustin-sciammarella](#) *(si tenés, lo agregamos)*  
+
+---
 
 
-## 📫 Contacto
+## 📫 Contactemos
 
 - Email: Sciammarellaagus9@gmail.com
 - LinkedIn: [linkedin.com/in/AgustínSciammarella](https://www.linkedin.com/in/agust%C3%ADn-sciammarella-385149298/)
@@ -40,4 +65,4 @@ Mi primer proyecto personal es un sitio web freelance responsive, inspirado en u
 
 ### ¡Gracias por visitar mi perfil!
 
-> “La tecnología bien aplicada transforma ideas en soluciones.”
+> 💡 *Siempre abierto a colaborar en proyectos web y seguir aprendiendo nuevas tecnologías.* 🚀
