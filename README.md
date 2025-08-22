@@ -50,12 +50,6 @@ Proyecto de una **tienda virtual frontend**, con un catálogo de productos diná
 
 ---
 
-## 📫 Conectemos
-- GitHub: [github.com/scianma](#)  
-- LinkedIn: [linkedin.com/in/agustin-sciammarella](#) *(si tenés, lo agregamos)*  
-
----
-
 
 ## 📫 Contactemos
 
