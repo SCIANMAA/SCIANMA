@@ -19,7 +19,7 @@ Actualmente busco seguir creciendo profesionalmente, aportando soluciones digita
 
 ## 🧪 Proyectos
 
-### 🎡 [Sitio Web Freelancer]()
+### 🎡 [Sitio Web Freelancer](https://freelancer-agustinsciammarella.netlify.app/)
 Mi primer proyecto personal: un **sitio web responsive para freelancers**, inspirado en una plantilla de servicios profesionales.  
 - Enfoque en **estructura sólida, componentes reutilizables y diseño moderno**.  
 - Compatible con múltiples dispositivos gracias a técnicas de diseño responsive.  
@@ -30,7 +30,7 @@ Mi primer proyecto personal: un **sitio web responsive para freelancers**, inspi
 
 ---
 
-### 🛍️ [Frontend Store](#)
+### 🛍️ [Frontend Store](https://frontendstore-agustinsciammarella.netlify.app/)
 Proyecto de una **tienda virtual frontend**, con un catálogo de productos dinámico y diseño pensado para la **experiencia de usuario**.  
 - Implementación de **cards interactivas** para productos.  
 - Sección de **"Sobre Nosotros"** con storytelling de marca.  
